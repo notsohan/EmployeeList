@@ -10,7 +10,7 @@ ___
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-006400?style=for-the-badge&logo=thymeleaf)
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![Maven-version](https://img.shields.io/badge/Maven-3.8.6-orange?style=for-the-badge&logo=maven)
-![Spring-Data-Jpa](https://img.shields.io/badge/SpringDataJPA-2.7.5-orange?style=for-the-badge&logo=datajpa)
+![Hibernate](https://img.shields.io/badge/Hibernate-D8BB78?style=for-the-badge&logo=hibernate&logoColor=black)
 
 ___
 
